@@ -4,14 +4,7 @@
 	"Category": "",
 	"Description": "",
 	"Modules": [
-		{
-			"Name": "jump2d",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
+	
 	],
 	"Plugins": [
 		{
